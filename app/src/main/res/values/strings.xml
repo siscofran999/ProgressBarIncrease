@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProgressBarProgress</string>
+    <string name="label_n_percent">%1$s%%</string>
+</resources>
